@@ -1,0 +1,91 @@
+html {
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: url(./images/back-1.jpg) no-repeat;
+    background-size: 100%;
+    min-height: 100%;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+form {
+    padding: 20px;
+    margin-top: 60px;
+}
+
+form button,
+form h5 {
+    margin: 20px 0;
+}
+
+.tab {
+    margin-left: 45%;
+}
+
+.tab2 {
+    margin-left: 7%;
+}
+
+.tab3 {
+    margin-left: 1%;
+}
+
+.tab4 {
+    text-align: center !important;
+}
+
+.split {
+    background-color: white;
+    min-height: 100%;
+    width: 80%;
+}
+
+.marging {
+    margin-top: 5%;
+}
+
+.Row {
+    display: table;
+    width: 100%;
+    /*Optional*/
+    table-layout: fixed;
+    /*Optional*/
+    border-spacing: 5px;
+    /*Optional*/
+}
+
+.Column {
+    display: table-cell;
+    /*Optional*/
+}
+
+.Row2 {
+    display: table;
+    width: 100%;
+    /*Optional*/
+    table-layout: fixed;
+    /*Optional*/
+    border-spacing: 5px;
+    /*Optional*/
+}
+
+.Column2 {
+    display: table-cell;
+    /*Optional*/
+}
+
+.table_c {
+    background-color: white;
+}
+
+.tag_u {
+    border-bottom: 1px double;
+}
